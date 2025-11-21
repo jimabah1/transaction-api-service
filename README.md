@@ -179,7 +179,7 @@ curl -X POST "http://localhost:8000/api/v1/transfers/" \
   }'
 ```
 
-## 🚧 Future Enhancements
+## Future Enhancements
 
 - [ ] JWT Authentication implementation
 - [ ] Rate limiting
@@ -188,17 +188,17 @@ curl -X POST "http://localhost:8000/api/v1/transfers/" \
 - [ ] CSV export functionality
 - [ ] Admin dashboard
 
-## 📝 License
+## License
 
 MIT License
 
-## 👤 Author
+## Author
 
 **Jimmah Abah**
 - GitHub: [@jimabah1](https://github.com/jimabah1)
 - LinkedIn: [Jimmah Abah](https://www.linkedin.com/in/jimmah-a-046914211)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built as part of a portfolio project demonstrating production-grade API development with focus on:
 - Financial transaction processing
